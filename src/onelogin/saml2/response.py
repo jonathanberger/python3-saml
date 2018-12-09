@@ -18,8 +18,7 @@ from onelogin.saml2.xml_utils import OneLogin_Saml2_XML
 class OneLogin_Saml2_Response(object):
     """
 
-    This class handles a SAML Response. It parses or validates
-    a Logout Response object.
+    This class handles a SAML Response.
 
     """
 
